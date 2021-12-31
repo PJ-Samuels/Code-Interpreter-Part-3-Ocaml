@@ -1,4 +1,4 @@
-# Interpreter-part-3
+# Interpreter-Part-3 Summary
 
 The goal of part 3 is to compile a high level functional language (similar to OCaml) to the stack language of
 part 2. When parse prog is given a string, it will attempt to parse a functional program and generate its abstract
